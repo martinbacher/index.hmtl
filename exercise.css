@@ -4,3 +4,13 @@
 #Steps ol  {
     list-style-type: georgian;
 }
+body {
+    color: blue;
+}
+h2 {
+    color: red;
+}
+header {
+    background-color: chartreuse;
+    text-align: center;
+}
